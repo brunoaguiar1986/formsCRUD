@@ -1,0 +1,21 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "Maria",
+      "idade": 20
+    },
+    {
+      "nome": "Neymar",
+      "idade": "30",
+      "cpf": "555",
+      "id": 4
+    },
+    {
+      "nome": "São Paulo Futebol Clube",
+      "idade": "70",
+      "cpf": "000999",
+      "id": 5
+    }
+  ]
+}
